@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "МОТР - Исправление иконок",
+  "version": "1.0",
+  "description": "Замена src атрибута у img тегов по маске",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://*.motr-online.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon.png"
+  }
+}
