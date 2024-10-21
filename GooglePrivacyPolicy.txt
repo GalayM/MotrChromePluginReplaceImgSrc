@@ -1,6 +1,6 @@
 Privacy Policy
 
-Your extension "Image Src Replacer" does not collect, store, or transmit any user data. We respect your privacy and do not use any personal information.
+Extension "Image Src Replacer" does not collect, store, or transmit any user data. We respect your privacy and do not use any personal information.
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at: galaymw@gmail.com
 
